@@ -1,3 +1,4 @@
 ### Hi there 👋
 
-[linkedin.com/benoît-durand/](https://linkedin.com/in/benoît-durand/)
+[Linkedin](https://linkedin.com/in/benoît-durand/)
+[Kaggle](https://www.kaggle.com/bdokkkk)
