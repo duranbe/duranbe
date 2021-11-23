@@ -10,3 +10,4 @@ Currently based in Plzeň, Czech Republic (Erasmus)
 
 [**Linkedin**](https://linkedin.com/in/benoît-durand/)
 [**Kaggle**](https://www.kaggle.com/bdokkkk)
+[**Hackerrank**](https://www.hackerrank.com/benoit_durand_m1)
