@@ -2,7 +2,11 @@
 
 My name is **Benoit Durand**,
 
-I'm a MSc student in Computer Science with a specialisation in Data and AI at ESIEE Paris.  
+I'm a MSc student in Computer Science with a specialisation in Data and AI at ESIEE Paris. 
+
+Previously
+  - BIE Intern @Amazon
+  - Software Engineer/Data Scientist @VivaDrive
 
 
 [**Linkedin**](https://linkedin.com/in/benoît-durand/)
