@@ -2,7 +2,7 @@
 
 My name is **Benoît Durand**,
 
-I'm a MSc Computer Science, specialized in Data and AI Graduate. 
+I'm a MSc Computer Science, specialized in Data and AI Graduate from [**ESIEE Paris**](https://www.esiee.fr). 
 
 Previously
   - BIE Intern @Amazon, Luxembourg
