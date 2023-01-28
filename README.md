@@ -4,6 +4,8 @@ My name is **Benoît Durand**,
 
 I'm a MSc Computer Science, specialized in Data and AI Graduate from [**ESIEE Paris**](https://www.esiee.fr). 
 
+Currently Software Engineer @Amazon, Luxembourg
+
 Previously
   - BIE Intern @Amazon, Luxembourg
   - Software Engineer/Data Scientist @VivaDrive, Warsaw
